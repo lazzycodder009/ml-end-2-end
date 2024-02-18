@@ -1,3 +1,5 @@
 venv/
 .env
 logs/
+__pycache__/
+mlend2endproject.egg-info/
